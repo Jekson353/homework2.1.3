@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Сроки задачи</string>
+    <string name="error">Ошибка: дата начала больше, чем дата окончания задачи</string>
+    <string name="date_start">Дата-время старта задачи:</string>
+    <string name="date_end">Дата-время окончания задачи:</string>
+    <string name="date_start_value">Дата-время старта задачи: %s</string>
+    <string name="date_end_value">Дата-время окончания задачи: %s</string>
+    <string name="result">старт: %s окончаниe: %s</string>
+    <string name="ok">OK</string>
+</resources>
